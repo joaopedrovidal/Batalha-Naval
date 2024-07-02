@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1719147756 source:c:\users\joão pedro vidal\onedrive\documentos\unifagoc (22)\batalha naval\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+
